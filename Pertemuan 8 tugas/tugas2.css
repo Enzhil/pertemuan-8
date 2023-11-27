@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 1em;
+  text-align: center;
+}
+
+body {
+  background-color: #463f3a;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  align-content: center;
+}
+
+header {
+  background-color: #8a817c;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+aside {
+  background-color: #bcb8b1;
+  width: 30%;
+  height: 590px;
+  margin-right: 1em;
+}
+
+article {
+  background-color: #f4f3ee;
+  width: 70%;
+  height: 590px;
+}
+
+footer {
+  background-color: #e0afa0;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+img {
+  width: 200px;
+}
